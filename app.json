@@ -1,6 +1,8 @@
 {
   "expo": {
     "name": "LearnReact",
+    "displayname": "LearnReact",
+    "expo": { "name":"LearnReact"},
     "slug": "LearnReact",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +19,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "name":"Name1"
     },
     "android": {
       "adaptiveIcon": {
